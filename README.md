@@ -34,26 +34,6 @@ The website consists of **three main pages**:
 - Lightbox image preview
 - Back-to-top button for improved navigation
 
-
-## File Structure
-project/
-│  index.html
-│  gallery.html
-│  actions.html
-│  style.css
-│
-├─ js/
-│   ├─ main.js
-│   └─ carousel.js
-│
-└─ img/
-    ├─ hero.jpg
-    ├─ action.jpg
-    ├─ p1.jpg
-    ├─ p2.jpg
-    ├─ p3.jpg
-    └─ ...
-
 ## How to Run the Project
 1. Download or clone the project files.
 2. Ensure all files follow the structure shown above.
